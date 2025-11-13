@@ -1,0 +1,3549 @@
+fileFormatVersion: 2
+guid: 680209e9933175f4297ac20d42ffa1b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5395664898520520381
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_0
+  - first:
+      213: 4752591173259765217
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_1
+  - first:
+      213: -7599418046431211818
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_2
+  - first:
+      213: -1706210386841734018
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_3
+  - first:
+      213: 2623099382502885103
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_4
+  - first:
+      213: 7794520796855219851
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_5
+  - first:
+      213: 1723246879862268056
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_6
+  - first:
+      213: 7471617516456007571
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_7
+  - first:
+      213: -2187780880337475683
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_8
+  - first:
+      213: 3614506606135900869
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_9
+  - first:
+      213: 6963190249697442461
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_10
+  - first:
+      213: 1751921574069171926
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_11
+  - first:
+      213: 8716262834447462656
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_12
+  - first:
+      213: 3362128439839492215
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_13
+  - first:
+      213: -3495720033478833684
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_14
+  - first:
+      213: 5045392199801418978
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_15
+  - first:
+      213: 2706404859348519994
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_16
+  - first:
+      213: -3609609822058902586
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_17
+  - first:
+      213: 7569086249655515969
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_18
+  - first:
+      213: 1724196309850508729
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_19
+  - first:
+      213: -8570473288801665951
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_20
+  - first:
+      213: -5628029737832344835
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_21
+  - first:
+      213: -2477772366277886985
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_22
+  - first:
+      213: -5441257666017528460
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_23
+  - first:
+      213: -6760723181573771696
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_24
+  - first:
+      213: -86518732996912485
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_25
+  - first:
+      213: -1258273053876802356
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_26
+  - first:
+      213: -699833364036196519
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_27
+  - first:
+      213: 1467460980185340198
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_28
+  - first:
+      213: -1953250780778859824
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_29
+  - first:
+      213: -5292206650929061715
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_30
+  - first:
+      213: 3632442391074560732
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_31
+  - first:
+      213: 7246889463579420172
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_32
+  - first:
+      213: -7151252374631489071
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_33
+  - first:
+      213: -8888818808147175258
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_34
+  - first:
+      213: -1547951330037358411
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_35
+  - first:
+      213: -5733481749669652140
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_36
+  - first:
+      213: -6317303626256608105
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_37
+  - first:
+      213: 951040565845674029
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_38
+  - first:
+      213: -1469920304144642605
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_39
+  - first:
+      213: 2467120763308643157
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_40
+  - first:
+      213: 2836820582640267796
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_41
+  - first:
+      213: 175414817648972857
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_42
+  - first:
+      213: -7863227605300918449
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_43
+  - first:
+      213: -2864225445556405414
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_44
+  - first:
+      213: 6297330097573046566
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_45
+  - first:
+      213: 6563845311008077577
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_46
+  - first:
+      213: 259120519422151653
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_47
+  - first:
+      213: 23210650598395888
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_48
+  - first:
+      213: 7581583879313058935
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_49
+  - first:
+      213: 1496037985325727087
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_50
+  - first:
+      213: 7191596234593978540
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_51
+  - first:
+      213: 6646855863877032577
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_52
+  - first:
+      213: -8147078478461518671
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_53
+  - first:
+      213: -8711054451638784571
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_54
+  - first:
+      213: -7052722139709610997
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_55
+  - first:
+      213: -7685530440460605113
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_56
+  - first:
+      213: -2156305524342009032
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_57
+  - first:
+      213: -7450306623603627548
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_58
+  - first:
+      213: 1300458229492409270
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_59
+  - first:
+      213: 5366980017696534369
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_60
+  - first:
+      213: -2142969900217709764
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_61
+  - first:
+      213: -3138041763240691603
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_62
+  - first:
+      213: -3896825350178106102
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_63
+  - first:
+      213: 6844866901204975747
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_64
+  - first:
+      213: 3988089401949769149
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_65
+  - first:
+      213: -8360787713498476529
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_66
+  - first:
+      213: 6079039711616686313
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_67
+  - first:
+      213: -4297651839942103692
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_68
+  - first:
+      213: -4904469681050153135
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_69
+  - first:
+      213: 4890640908334081688
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_70
+  - first:
+      213: -4874808439370750922
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_71
+  - first:
+      213: 7858715648571431200
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_72
+  - first:
+      213: -4912987829794131453
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_73
+  - first:
+      213: -4862839396559316813
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_74
+  - first:
+      213: -5550657127603022183
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_75
+  - first:
+      213: -8721145057880200488
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_76
+  - first:
+      213: 2565788160948346860
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_77
+  - first:
+      213: -7829577391767628635
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_78
+  - first:
+      213: -8717481896285839286
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_79
+  - first:
+      213: 2330446681004425646
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_80
+  - first:
+      213: -8663597842391868286
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_81
+  - first:
+      213: -8220316236493014724
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_82
+  - first:
+      213: 3115567517113573281
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_83
+  - first:
+      213: -8936580781962697460
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_84
+  - first:
+      213: 7372836417241638122
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_85
+  - first:
+      213: 6356971976943245547
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_86
+  - first:
+      213: 4598239917678572758
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_87
+  - first:
+      213: 5183903843960638127
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_88
+  - first:
+      213: -7826934193976246112
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_89
+  - first:
+      213: 920727554676468346
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_90
+  - first:
+      213: -6009408836140987944
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_91
+  - first:
+      213: -667456988531252892
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_92
+  - first:
+      213: -225768942218584541
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_93
+  - first:
+      213: -5971799923349485815
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_94
+  - first:
+      213: -8612491077815940575
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_95
+  - first:
+      213: -6356036350562704568
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_96
+  - first:
+      213: 3238866375696487994
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_97
+  - first:
+      213: -155334133834489992
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_98
+  - first:
+      213: -2995082660078270374
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_99
+  - first:
+      213: 3374649385809002610
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_100
+  - first:
+      213: 6142791322421038787
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_101
+  - first:
+      213: 5613406429892239810
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_102
+  - first:
+      213: -8509007200185289919
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_103
+  - first:
+      213: 6344301752307142325
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_104
+  - first:
+      213: -9106782833363485142
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_105
+  - first:
+      213: -8535284823446139439
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_106
+  - first:
+      213: 6198884485477467497
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_107
+  - first:
+      213: -4057371625440372834
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_108
+  - first:
+      213: -1473305393279177488
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_109
+  - first:
+      213: -3399387609641831692
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_110
+  - first:
+      213: -4576526529262344113
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_111
+  - first:
+      213: 756634723158881045
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_112
+  - first:
+      213: -1910852026918253888
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_113
+  - first:
+      213: -8400951543744265912
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_114
+  - first:
+      213: 9078954252156587989
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_115
+  - first:
+      213: 8564698299836764731
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_116
+  - first:
+      213: 1228109637759028650
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_117
+  - first:
+      213: 3520739119030226763
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_118
+  - first:
+      213: 8193286109596135026
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_119
+  - first:
+      213: 8248729929225730292
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_120
+  - first:
+      213: 8086029287715737154
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_121
+  - first:
+      213: -372358169196081083
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_122
+  - first:
+      213: 3291996810955807865
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_123
+  - first:
+      213: 5973268353939547326
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_124
+  - first:
+      213: -4403659663775274602
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_125
+  - first:
+      213: -2495765036204397631
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_126
+  - first:
+      213: 656790519854021276
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_127
+  - first:
+      213: -7844160256463865492
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_128
+  - first:
+      213: -8784374526281503314
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_129
+  - first:
+      213: -2768787892369421393
+    second: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_130
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349e3acbc5fbe15b0800000000000000
+      internalID: -5395664898520520381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e52ec4ed7894f140800000000000000
+      internalID: 4752591173259765217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de46cadc81798690800000000000000
+      internalID: -7599418046431211818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74773c61b25258e0800000000000000
+      internalID: -1706210386841734018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_4
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe681a89dfe176420800000000000000
+      internalID: 2623099382502885103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_5
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8633fa1e53bb2c60800000000000000
+      internalID: 7794520796855219851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_6
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890ad7638e33ae710800000000000000
+      internalID: 1723246879862268056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_7
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39752fd7b8480b760800000000000000
+      internalID: 7471617516456007571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_8
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97e71571e073a1e0800000000000000
+      internalID: -2187780880337475683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_9
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca78099b9e492230800000000000000
+      internalID: 3614506606135900869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_10
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9afda8b3a832a060800000000000000
+      internalID: 6963190249697442461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_11
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d67cb8b363105810800000000000000
+      internalID: 1751921574069171926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_12
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 2397
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0013e200ed266f870800000000000000
+      internalID: 8716262834447462656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2308
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7780fd1b00ea8ae20800000000000000
+      internalID: 3362128439839492215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_14
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce907429625bc7fc0800000000000000
+      internalID: -3495720033478833684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_15
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 2308
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4b0bd5975d40640800000000000000
+      internalID: 5045392199801418978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_16
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c0cd361e41f8520800000000000000
+      internalID: 2706404859348519994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_17
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 2308
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb0b6acdf618edc0800000000000000
+      internalID: -3609609822058902586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_18
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bb20167dbca0960800000000000000
+      internalID: 7569086249655515969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_19
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 2308
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdcdab98639de710800000000000000
+      internalID: 1724196309850508729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_20
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cb000c3ff8f0980800000000000000
+      internalID: -8570473288801665951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_21
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2247
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df21b23a5c835e1b0800000000000000
+      internalID: -5628029737832344835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_22
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2247
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb3ab1292f2d9dd0800000000000000
+      internalID: -2477772366277886985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_23
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 2247
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47577a55bf4cc74b0800000000000000
+      internalID: -5441257666017528460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_24
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 2247
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05eeb8116161d22a0800000000000000
+      internalID: -6760723181573771696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_25
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2162
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a5d45bbaf9ccef0800000000000000
+      internalID: -86518732996912485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1914
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc2a39f257b98ee0800000000000000
+      internalID: -1258273053876802356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_27
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 2162
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957e7a66341b946f0800000000000000
+      internalID: -699833364036196519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_28
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1914
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62991bd8cf77d5410800000000000000
+      internalID: 1467460980185340198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_29
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 2162
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2fb6e73c8a4e4e0800000000000000
+      internalID: -1953250780778859824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_30
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1914
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0e96d171e4e86b0800000000000000
+      internalID: -5292206650929061715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_31
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 2162
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdad113fb17096230800000000000000
+      internalID: 3632442391074560732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_32
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1914
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c062c2b429f129460800000000000000
+      internalID: 7246889463579420172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_33
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2086
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1ebeeaad5a1cc90800000000000000
+      internalID: -7151252374631489071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_34
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2111
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a89393936294a480800000000000000
+      internalID: -8888818808147175258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_35
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 2086
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0a78b7772948ae0800000000000000
+      internalID: -1547951330037358411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_36
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 2111
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45951c8d9b49e60b0800000000000000
+      internalID: -5733481749669652140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_37
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 2086
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79410ba82dd6458a0800000000000000
+      internalID: -6317303626256608105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_38
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2111
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28c7361b56c23d00800000000000000
+      internalID: 951040565845674029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_39
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 2086
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd0357754bc99be0800000000000000
+      internalID: -1469920304144642605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_40
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 2111
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553900b4349fc3220800000000000000
+      internalID: 2467120763308643157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_41
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2028
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4123acf2a496e5720800000000000000
+      internalID: 2836820582640267796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_42
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2066
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9349e46e8d23f6200800000000000000
+      internalID: 175414817648972857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_43
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 2028
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f474ef5772430e290800000000000000
+      internalID: -7863227605300918449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_44
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 2066
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bb9f0f12a3048d0800000000000000
+      internalID: -2864225445556405414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_45
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 2028
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629a73beb5c946750800000000000000
+      internalID: 6297330097573046566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_46
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 2066
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907ff3b9886771b50800000000000000
+      internalID: 6563845311008077577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_47
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 2028
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb0c225db4989300800000000000000
+      internalID: 259120519422151653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_48
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 2066
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff4ce7b6f5725000800000000000000
+      internalID: 23210650598395888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_49
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1968
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c68498e52373960800000000000000
+      internalID: 7581583879313058935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_50
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1999
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6db4dd0f9ef2c410800000000000000
+      internalID: 1496037985325727087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_51
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1968
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8c2033caeadc360800000000000000
+      internalID: 7191596234593978540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_52
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1999
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18adc9f01306e3c50800000000000000
+      internalID: 6646855863877032577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_53
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1968
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc3216f943cfee80800000000000000
+      internalID: -8147078478461518671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_54
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1999
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd2cfe112e1c1780800000000000000
+      internalID: -8711054451638784571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_55
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1968
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b046313b492bf1e90800000000000000
+      internalID: -7052722139709610997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_56
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1999
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749e4e9b8c2875590800000000000000
+      internalID: -7685530440460605113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_57
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1968
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833d16adc834312e0800000000000000
+      internalID: -2156305524342009032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_58
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1645
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9ad5869913b9890800000000000000
+      internalID: -7450306623603627548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_59
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1764
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3e02e9ed72c0210800000000000000
+      internalID: 1300458229492409270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_60
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1789
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16feb6ff3e75b7a40800000000000000
+      internalID: 5366980017696534369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_61
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1645
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b4b2dca34a242e0800000000000000
+      internalID: -2142969900217709764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_62
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1764
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68b2b374af6374d0800000000000000
+      internalID: -3138041763240691603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_63
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1789
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0595e28df1bbe9c0800000000000000
+      internalID: -3896825350178106102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_64
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1645
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380c6255e2addfe50800000000000000
+      internalID: 6844866901204975747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_65
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1764
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd47b76e2a885730800000000000000
+      internalID: 3988089401949769149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_66
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1789
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0019763fd388fb80800000000000000
+      internalID: -8360787713498476529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_67
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1645
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8d76ad8661d5450800000000000000
+      internalID: 6079039711616686313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_68
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 1764
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d62f7eb6cab54c0800000000000000
+      internalID: -4297651839942103692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_69
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 1789
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f05516fc2dfebb0800000000000000
+      internalID: -4904469681050153135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_70
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1796
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8962f319efb0fd340800000000000000
+      internalID: 4890640908334081688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_71
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1707
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634ea3f5d83395cb0800000000000000
+      internalID: -4874808439370750922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_72
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1744
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02957efbe34cf0d60800000000000000
+      internalID: 7858715648571431200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_73
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1707
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302bd43599f81dbb0800000000000000
+      internalID: -4912987829794131453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_74
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1744
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b89e405559b38cb0800000000000000
+      internalID: -4862839396559316813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_75
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1707
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9965b3740ca18f2b0800000000000000
+      internalID: -5550657127603022183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_76
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1744
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8daa566c6c448f680800000000000000
+      internalID: -8721145057880200488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_77
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 1707
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef9a3efcb28b9320800000000000000
+      internalID: 2565788160948346860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_78
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 1744
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4d24658d0c75390800000000000000
+      internalID: -7829577391767628635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_79
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 443
+        width: 2422
+        height: 1274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40ebfb0768450780800000000000000
+      internalID: -8717481896285839286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_80
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1677
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1c14db8e8675020800000000000000
+      internalID: 2330446681004425646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_81
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1677
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c546ff9a7b4c780800000000000000
+      internalID: -8663597842391868286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_82
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1677
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39357e9fe19bed80800000000000000
+      internalID: -8220316236493014724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_83
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 1677
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afdc4b5628bc3b20800000000000000
+      internalID: 3115567517113573281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_84
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 1368
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05e7887023eaf380800000000000000
+      internalID: -8936580781962697460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_85
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1195
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae460c498a3915660800000000000000
+      internalID: 7372836417241638122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_86
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 766
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be890d41550883850800000000000000
+      internalID: 6356971976943245547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_87
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 443
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4b045b7da30df30800000000000000
+      internalID: 4598239917678572758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_88
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 594
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa4e01a41de0f740800000000000000
+      internalID: 5183903843960638127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_89
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 359
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a000b7c1d4216390800000000000000
+      internalID: -7826934193976246112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_90
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7aa76f25d417cc00800000000000000
+      internalID: 920727554676468346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_91
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 359
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d909b3b08a4a9ca0800000000000000
+      internalID: -6009408836140987944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_92
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4612ebfb767bcb6f0800000000000000
+      internalID: -667456988531252892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_93
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 359
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32edebdd758eddcf0800000000000000
+      internalID: -225768942218584541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_94
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9078c031c97ef1da0800000000000000
+      internalID: -5971799923349485815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_95
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 359
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a4f83eef84a7880800000000000000
+      internalID: -8612491077815940575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_96
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8436d396d92dac7a0800000000000000
+      internalID: -6356036350562704568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_97
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 283
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a369856fec3c2fc20800000000000000
+      internalID: 3238866375696487994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_98
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 308
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f5d43ad6428ddf0800000000000000
+      internalID: -155334133834489992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_99
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 283
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a584a1570345f66d0800000000000000
+      internalID: -2995082660078270374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_100
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 308
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270c2aa9cb925de20800000000000000
+      internalID: 3374649385809002610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_101
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 283
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce024e69249f3550800000000000000
+      internalID: 6142791322421038787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_102
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 308
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1ee992863d6ed40800000000000000
+      internalID: 5613406429892239810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_103
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 283
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143f6b9b80fe9e980800000000000000
+      internalID: -8509007200185289919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_104
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 308
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bec72684dc7b0850800000000000000
+      internalID: 6344301752307142325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_105
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 225
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e7eba43453e9180800000000000000
+      internalID: -9106782833363485142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_106
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddc5b9cca39c8980800000000000000
+      internalID: -8535284823446139439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_107
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 225
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9658090b89cd60650800000000000000
+      internalID: 6198884485477467497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_108
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9790e7e00251b7c0800000000000000
+      internalID: -4057371625440372834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_109
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 225
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc6debfc84cd8be0800000000000000
+      internalID: -1473305393279177488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_110
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f23f61daf2f2d0d0800000000000000
+      internalID: -3399387609641831692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_111
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 225
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48aa2e7e59ec70c0800000000000000
+      internalID: -4576526529262344113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_112
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5137c9a954b108a00800000000000000
+      internalID: 756634723158881045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_113
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 165
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cac335a43a4b75e0800000000000000
+      internalID: -1910852026918253888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_114
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 196
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8418ad3c413d96b80800000000000000
+      internalID: -8400951543744265912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_115
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 165
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfc0db3acceefd70800000000000000
+      internalID: 9078954252156587989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_116
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 196
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32992ad9bbebd670800000000000000
+      internalID: 8564698299836764731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_117
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 165
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad4cdf653f1b0110800000000000000
+      internalID: 1228109637759028650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_118
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 196
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f4e98339d2cd030800000000000000
+      internalID: 3520739119030226763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_119
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 165
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27eae998e4664b170800000000000000
+      internalID: 8193286109596135026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_120
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 196
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8f1afba20697270800000000000000
+      internalID: 8248729929225730292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_121
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 166
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e83b9abc8573070800000000000000
+      internalID: 8086029287715737154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_122
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5405adbc73e15daf0800000000000000
+      internalID: -372358169196081083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_123
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c5db668a58fad20800000000000000
+      internalID: 3291996810955807865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_124
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb426a09bef45e250800000000000000
+      internalID: 5973268353939547326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_125
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69965fc0ede03e2c0800000000000000
+      internalID: -4403659663775274602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_126
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb62363ce24d5dd0800000000000000
+      internalID: -2495765036204397631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_127
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a3ebb7f736d1900800000000000000
+      internalID: 656790519854021276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_128
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69fb309ec1f32390800000000000000
+      internalID: -7844160256463865492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_129
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead2003f8e1a71680800000000000000
+      internalID: -8784374526281503314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_130
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 0
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab0be0e41a4399d0800000000000000
+      internalID: -2768787892369421393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_0: -5395664898520520381
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_1: 4752591173259765217
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_10: 6963190249697442461
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_100: 3374649385809002610
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_101: 6142791322421038787
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_102: 5613406429892239810
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_103: -8509007200185289919
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_104: 6344301752307142325
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_105: -9106782833363485142
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_106: -8535284823446139439
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_107: 6198884485477467497
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_108: -4057371625440372834
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_109: -1473305393279177488
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_11: 1751921574069171926
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_110: -3399387609641831692
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_111: -4576526529262344113
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_112: 756634723158881045
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_113: -1910852026918253888
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_114: -8400951543744265912
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_115: 9078954252156587989
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_116: 8564698299836764731
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_117: 1228109637759028650
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_118: 3520739119030226763
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_119: 8193286109596135026
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_12: 8716262834447462656
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_120: 8248729929225730292
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_121: 8086029287715737154
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_122: -372358169196081083
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_123: 3291996810955807865
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_124: 5973268353939547326
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_125: -4403659663775274602
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_126: -2495765036204397631
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_127: 656790519854021276
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_128: -7844160256463865492
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_129: -8784374526281503314
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_13: 3362128439839492215
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_130: -2768787892369421393
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_14: -3495720033478833684
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_15: 5045392199801418978
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_16: 2706404859348519994
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_17: -3609609822058902586
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_18: 7569086249655515969
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_19: 1724196309850508729
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_2: -7599418046431211818
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_20: -8570473288801665951
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_21: -5628029737832344835
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_22: -2477772366277886985
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_23: -5441257666017528460
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_24: -6760723181573771696
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_25: -86518732996912485
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_26: -1258273053876802356
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_27: -699833364036196519
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_28: 1467460980185340198
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_29: -1953250780778859824
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_3: -1706210386841734018
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_30: -5292206650929061715
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_31: 3632442391074560732
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_32: 7246889463579420172
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_33: -7151252374631489071
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_34: -8888818808147175258
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_35: -1547951330037358411
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_36: -5733481749669652140
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_37: -6317303626256608105
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_38: 951040565845674029
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_39: -1469920304144642605
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_4: 2623099382502885103
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_40: 2467120763308643157
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_41: 2836820582640267796
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_42: 175414817648972857
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_43: -7863227605300918449
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_44: -2864225445556405414
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_45: 6297330097573046566
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_46: 6563845311008077577
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_47: 259120519422151653
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_48: 23210650598395888
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_49: 7581583879313058935
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_5: 7794520796855219851
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_50: 1496037985325727087
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_51: 7191596234593978540
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_52: 6646855863877032577
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_53: -8147078478461518671
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_54: -8711054451638784571
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_55: -7052722139709610997
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_56: -7685530440460605113
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_57: -2156305524342009032
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_58: -7450306623603627548
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_59: 1300458229492409270
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_6: 1723246879862268056
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_60: 5366980017696534369
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_61: -2142969900217709764
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_62: -3138041763240691603
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_63: -3896825350178106102
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_64: 6844866901204975747
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_65: 3988089401949769149
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_66: -8360787713498476529
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_67: 6079039711616686313
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_68: -4297651839942103692
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_69: -4904469681050153135
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_7: 7471617516456007571
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_70: 4890640908334081688
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_71: -4874808439370750922
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_72: 7858715648571431200
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_73: -4912987829794131453
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_74: -4862839396559316813
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_75: -5550657127603022183
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_76: -8721145057880200488
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_77: 2565788160948346860
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_78: -7829577391767628635
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_79: -8717481896285839286
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_8: -2187780880337475683
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_80: 2330446681004425646
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_81: -8663597842391868286
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_82: -8220316236493014724
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_83: 3115567517113573281
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_84: -8936580781962697460
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_85: 7372836417241638122
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_86: 6356971976943245547
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_87: 4598239917678572758
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_88: 5183903843960638127
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_89: -7826934193976246112
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_9: 3614506606135900869
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_90: 920727554676468346
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_91: -6009408836140987944
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_92: -667456988531252892
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_93: -225768942218584541
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_94: -5971799923349485815
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_95: -8612491077815940575
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_96: -6356036350562704568
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_97: 3238866375696487994
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_98: -155334133834489992
+      pngtree-alien-spaceship-isolated-on-a-transparent-background-png-image_15458883_99: -2995082660078270374
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,53 @@
+# === Unity Generated Files ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# === IDE / OS Files ===
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.DS_Store
+*.apk
+*.aab
+
+# === Unity Cache ===
+sysinfo.txt
+*.unitypackage
+
+# === Crash Reports ===
+*.stacktrace
+*.crash
+
+# === Auto Generated ===
+/Library
+/Temp
+/Obj
+/Logs
+/MemoryCaptures
+/Build
+/Builds
+
+# === Optional (skip big demo videos or textures) ===
+*.mp4
+*.mov
+*.avi
+*.wav
+*.mp3
+*.psd
+*.tif
+*.tiff
