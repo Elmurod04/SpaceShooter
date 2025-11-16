@@ -2,32 +2,87 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    [Header("Movement")]
     public float moveSpeed = 5f;
+    private Vector2 movement;
+    private Camera cam;
+
+    [Header("Shooting")]
     public GameObject bulletPrefab;
     public Transform firePoint;
-
-    private float targetX;
+    public float fireRate = 0.25f;
+    private float nextFireTime = 0f;
 
     void Start()
     {
-        targetX = transform.position.x;
+        cam = Camera.main;
     }
 
     void Update()
     {
-        // --- Get Input ---
-        float moveInput = Input.GetAxis("Horizontal");
-        targetX += moveInput * moveSpeed * Time.deltaTime;
+        HandleMovement();
+        HandleShooting();
+    }
 
-        // --- Smooth Movement ---
-        Vector3 currentPos = transform.position;
-        currentPos.x = Mathf.Lerp(currentPos.x, targetX, 0.15f); // 0.15 = smoothness factor
-        transform.position = currentPos;
+    // -------------------------------
+    // MOVEMENT (PC + Mobile Touch)
+    // -------------------------------
+    void HandleMovement()
+    {
+        movement = Vector2.zero;
 
-        // --- Shooting ---
-        if (Input.GetKeyDown(KeyCode.Space))
+        // PC controls
+        float horizontal = Input.GetAxis("Horizontal");
+        float vertical   = Input.GetAxis("Vertical");
+        movement = new Vector2(horizontal, vertical);
+
+        // Mobile touch
+        if (Input.touchCount > 0)
         {
-            Instantiate(bulletPrefab, firePoint.position, Quaternion.identity);
+            Touch t = Input.GetTouch(0);
+            Vector3 touchPos = cam.ScreenToWorldPoint(t.position);
+            touchPos.z = 0;
+
+            // Move smoothly toward touch
+            transform.position = Vector3.Lerp(
+                transform.position,
+                touchPos,
+                Time.deltaTime * 5f
+            );
+            return;
+        }
+
+        // Apply movement (PC)
+        transform.Translate(movement * moveSpeed * Time.deltaTime);
+    }
+
+    // -------------------------------
+    // SHOOTING
+    // -------------------------------
+    void HandleShooting()
+    {
+        if (Time.timeScale == 0f) return; // can't shoot on pause
+
+        bool shootPressed = Input.GetKey(KeyCode.Space) || Input.GetMouseButton(0);
+
+        if (shootPressed && Time.time > nextFireTime)
+        {
+            nextFireTime = Time.time + fireRate;
+            Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
+        }
+    }
+
+    // -------------------------------
+    // COLLISION WITH ENEMY
+    // -------------------------------
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Enemy"))
+        {
+            GameManager.Instance.GameOver();
+
+            // Destroy spaceship AFTER UI appears
+            Destroy(gameObject, 0.05f);
         }
     }
 }

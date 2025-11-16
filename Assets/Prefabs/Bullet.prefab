@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 8948829817253998604}
   - component: {fileID: 6268771764111250336}
   m_Layer: 0
-  m_Name: Bullet 1
+  m_Name: Bullet
   m_TagString: Bullet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -28,13 +28,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6038234415298986831}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.015876364, y: -0.025515053, z: 0.38568082, w: 0.9221428}
-  m_LocalPosition: {x: 0.022, y: -2.176, z: -0}
-  m_LocalScale: {x: 0.054626282, y: 0.054626282, z: 0.054626282}
+  m_LocalRotation: {x: -0.0047975513, y: -0.029665811, z: -0.00014238755, w: 0.9995484}
+  m_LocalPosition: {x: 0.0050000027, y: -2.047, z: -0.004}
+  m_LocalScale: {x: 0.10731333, y: 0.10731333, z: 0.10731333}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: -0.55, y: -3.4, z: 45.41}
+  m_LocalEulerAnglesHint: {x: -0.55, y: -3.4, z: 0}
 --- !u!212 &3628800880622522131
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -82,7 +82,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -2749261331969839478, guid: 8959e375198cab6468039e8f3ecc1b2d, type: 3}
+  m_Sprite: {fileID: -5116505719135437680, guid: 6dcb86451fc9557498bc46f524019c61, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -158,7 +158,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 5.19, y: 5.36}
+    oldSize: {x: 1.87, y: 4.83}
     newSize: {x: 5.19, y: 5.36}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
